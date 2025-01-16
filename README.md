@@ -5,8 +5,8 @@ Author: Furkan Semih Dündar
 
 Email: f.semih.dundar@yandex.com
 
-# Project Post
-To be announced later.
+# The Project Post
+[A suggestive quantum theory for cyclic character strings](https://community.wolfram.com/groups/-/m/t/3357778)
 
 # Licenses
 
